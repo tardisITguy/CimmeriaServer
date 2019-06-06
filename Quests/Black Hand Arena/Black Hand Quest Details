@@ -1,0 +1,95 @@
+Black Hand Arena Details (Dragonheart Built)
+NPCSPawners ** Activated by Klous @ the Black Hand Arena
+  BHA1 - Wildlife_HyenaAlpha [Default Stats] 200/3000 *2  (Drop: Black Hand Skull)
+  BHA2 - Wildlife_Bear_Black [Default Stats] 200/3000 *2  (Drop: Black Hand Skull)
+  BHA3 - Wildlife_TigerAlpha [Default Stats] 200/2000 *2  (Drop: Black Hand Skull)
+  BHA4 - Wildlife_WolfAlpha  [Default Stats] 200/2000 *2  (Drop: Black Hand Skull)
+  
+Splitskin
+  Egress Trigger: Challenge Arena
+  Gives Quest: Challenge 1 [No Notification]
+  
+Corbin [Animal Handler]
+  Gives Quest: Black Hand Pet **
+  Gives Item: Greater Sabertooth [19124] *1
+  Gives Item: Greater Jaguar [19125] *1
+  Gives Item: Greater Wolf [19126] *1
+  Gives Item: Greater Bear [19127] *1
+  Gives Item: Greater Hyena [19128] *1
+  Gives Item: Greater Crocodile [19129] *1
+
+Klous [Black Hand Captian]
+  Gives Quest: Black Hand Challenge 1 [No notification] 5 Day experation
+  Gives Quest: Black Hand Challenge 2 [No notification] 5 Day experation
+  Gives Quest: Black Hand Challenge 3 [No notification] 5 Day experation
+  Completes Quest: Black Hand Challenge 1 [No notification] 5 Day experation
+  Completes Quest: Black Hand Challenge 2 [No notification] 5 Day experation
+  Completes Quest: Black Hand Challenge 3 [No notification] 5 Day experation
+  Removes Item: Black Hand Skull (*2) *3
+  
+Guss [Greater]
+  Can reset rank 
+  Checks for quest: Black Hand Initiate
+  Checks for rank: Black Hand
+  Checks for Item: Black Hand Key [77750008] *1
+  
+Borand [Workshop Foreman]
+  Gives Quest: Borand's Approval [Notify's Player]
+  Gives Quest: 5KBlackIce [No notification]
+  Gives Quest: 4KTar [No notification]
+  Gives Quest: 1KBrimstone [No notification]
+  Completes Quest: Borand's Approval [Notify's Player]
+  Completes Quest: 5KBlackIce [No notification]
+  Completes Quest: 4KTar [No notification]
+  Completes Quest: 1KBrimstone [No notification]
+  Removes Item: Black Ice [18041] *5000
+  Removes Item: Tar [14172] *4000
+  Removes Item: Brimstone [14171] *1000
+  Gives Item: Loyalty Token [900004] *1
+  Gives Quest: BHBorandReward [No notification] 1 Day Experation
+  Gives Item: Legendary Weapon Repair Kit [41037] *3
+  Gives Item: Healing Arros [53615] *100
+  Gives Item: Loyalty Token [900004] *2
+  
+Elsa [Chef]
+  Gives Quest: Elsa's Approval [Notify's Player]
+  Gives Quest: BH1koil [No notification]
+  Gives Quest: BH500Pork [No notification]
+  Gives Quest: BH500Spice [No notification]
+  Completes Quest: Elsa's Approval [Notify's Player]
+  Completes Quest: BH1koil [No notification]
+  Completes Quest: BH500Pork [No notification]
+  Completes Quest: BH500Spice [No notification]
+  Removes Item: Oil [18031] *1000
+  Removes Item: Raw Pork [18279] *500
+  Removes ITem: Spice [18264] *500
+  Gives Item: Loyalty Token [900004] *1
+  Gives Quest: BHElsaReward [No notification] 1 Day Experation
+  Gives Item: Cooked Pork Dinner [18280] *20
+  Gives Item: Cimmerian Meal [18242] *20
+  Gives Item: Cooked Pork Strips [18274] *20
+  
+Bunky [Master at Arms]
+  Gives Quest: Bunky's Approval [Notify's Player]
+  Gives Quest: 500icetea [No notification]
+  Gives Quest: 500mead [No notification]
+  Gives Quest: 500cimmeal [No notification]
+  Completes Quest: Bunky's Approval [Notify's Player]
+  Completes Quest: 500icetea [No notification]
+  Completes Quest: 500mead [No notification]
+  Completes Quest: 500cimmeal [No notification]
+  Removes Item: Ice Tea [18274] *500
+  Removes Item: Mead [18076] *500
+  Removes Item: Cimmerian Meal [18242] *500
+  Gives Item: Loyalty Token [900004] *1
+  Gives Quest: BHBunkyReward [No notification] 1 Day Experation
+  Gives Item: Legendary Potion [900437] *2
+  Gives Item: Cimmerian Meal [18242] *20
+  Gives Item: Potion of Endowment [18275] *20
+  Gives Item: Ice Tea [18274] *20
+  
+  
+  
+  
+  
+  
