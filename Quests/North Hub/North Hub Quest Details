@@ -1,0 +1,82 @@
+Carsin [Architec] - Building the North Hub is not a simple task
+  Gives Quest: Help Carsin [Notify] no experation
+  Gives Quest: Help Aldor [Notify] no experation
+  Gives Quest: Help Harken [Notify] no experation
+  Gives Quest: Help Pri [Notify] no experation
+  Gives Quest: Help Lhunda [Notify] no experation
+  Completes Quest: Help Aldor [Notify] no experation
+  Completes Quest: Help Harken [Notify] no experation
+  Completes Quest: Help Pri [Notify] no experation
+  Completes Quest: Help Lhunda [Notify] no experation
+  Deletes Quest: Help Aldor [Notify] no experation
+  Deletes Quest: Help Harken [Notify] no experation
+  Deletes Quest: Help Pri [Notify] no experation
+  Deletes Quest: Help Lhunda [Notify] no experation
+  Gives Exp: 100000
+  Gives Funds: 100 Gold
+  
+  Harken [Quarry Master]
+  Completes Quest: Help Harken [Notify]
+  Delete Quest: Help Harken [No Notify]
+  Gives Quest: Harken 1 [No Notify]
+  Gives Quest: Harken Help 1 [No notify]
+  Give Item: Steel Pick [51003]
+  Give Exp: 100000
+  Remove Item: Stone [10001] *1000
+  Gives Quest: Harken 2 [No Notify]
+  Gives Quest: Harken Help 2 [No notify] 
+  Give Item: Steel Pick [51003]
+  Give Exp: 200000
+  Remove Item: Ironstone [11001] *1000
+  Gives Quest: Harken 3 [No Notify]
+  Gives Quest: Harken Help 3 [No notify]   
+  Give Item: Hardened Steel Pick [51022]
+  Give Exp: 300000
+  Remove Item: Coal [11011] *1000
+  
+  Pri [Hunting Master]
+  Completes Quest: Help Pri [Notify]
+  Delete Quest: Help Pri [No Notify]
+  Gives Quest: Pri 1 [No Notify]
+  Gives Quest: Pri Help 1 [No notify]
+  Give Item: Steel Skinning Knife [51310]
+  Remove Item: Hide [12011] *1000
+  Gives Quest: Pri 2 [No Notify]
+  Gives Quest: Pri Help 2 [No notify] 
+  Give Item: Hardened Steel Skinning Knife [51311]
+  Remove Item: Thick Hide [12012] *1000
+  Gives Quest: Pri 3 [No Notify]
+  Gives Quest: Pri Help 3 [No notify]   
+  Give Item: Star Metal Skinning Knife [51312]
+  Remove Item: Fur [18052] *1000
+  
+  Aldor [Lumberjack]
+  Completes Quest: Help Aldor [Notify]
+  Delete Quest: Help Aldor [No Notify]
+  Gives Quest: Aldor 1 [No Notify]
+  Gives Quest: Aldor Help 1 [No notify]
+  Give Item: Steel Hatchet [51013]
+  Remove Item: Wood [10011] *1000
+  Gives Quest: Aldor 2 [No Notify]
+  Gives Quest: Aldor Help 2 [No notify] 
+  Give Item: Pickaxe [51021]
+  Remove Item: Bark [10005] *1000
+  Gives Quest: Aldor 3 [No Notify]
+  Gives Quest: Aldor Help 3 [No notify]   
+  Give Item: Hardened Steel Sickle [51041]
+  Remove Item: Leavening Plant Seeds [11097] *1000
+  
+  Lhunda [Farmer]
+  Completes Quest: Help Lhunda [Notify]
+  Delete Quest: Help Lhunda [No Notify]
+  Gives Quest: Lhunda 1 [No Notify]
+  Gives Quest: Lhunda Help 1 [No notify]
+  Give Item: Steel Sickle [51040]
+  Remove Item: Seeds [13015] *1000
+  Gives Quest: Lhunda 2 [No Notify]
+  Gives Quest: Lhunda Help 2 [No notify] 
+  Give Item: Star Metal Pick [51021]
+  Remove Item: Bone [10021] *1000
+  Gives Quest: Lhunda 3 [No Notify]
+  Gives Quest: Lhunda Help 3 [No notify]
+  Remove Item: Putrid Meat [13599] *1000 
