@@ -87,9 +87,24 @@ Bunky [Master at Arms]
   Gives Item: Cimmerian Meal [18242] *20
   Gives Item: Potion of Endowment [18275] *20
   Gives Item: Ice Tea [18274] *20
-  
-  
-  
-  
-  
+
+Duecme [Breaker]
+  Give Quest: Duecme Help [no Notify] 
+  Give Quest: BHA Honey Gruel for Duecme [Notify] 3 day experation
+  Give Quest: BHA Enhanced Gruel for Duecme [Notify] 3 day experation
+  Give Quest: BHA Flavoried Gruel for Duecme [Notify] 3 day experation
+  Complete Quest: BHA Honey Gruel for Duecme [Notify] 3 day experation
+  Complete Quest: BHA Enhanced Gruel for Duecme [Notify] 3 day experation
+  Complete Quest: BHA Flavoried Gruel for Duecme [Notify] 3 day experation
+  Complete Quest: Duecme Help
+  Global Variable: BHADuecme1
+  Global Variable: BHADuecme2
+  Global Variable: BHADuecme3
+  Remove Item: Honey Gruel [18271] *
+  Remove Item: Enhanced Gruel [18225] *
+  Remove Item: Flavored Grueld [18216] *
+  Give Item: Loyalty Token [900004] *1
+  Give Item: Kronyxium Truncheon [901537] *1
+  Give Item: Chain Bindings [51964] *1
+  Give Exp: 1000000 (*4: 3 Per quest turn in, 1 as choice for added xp instead of item)
   
