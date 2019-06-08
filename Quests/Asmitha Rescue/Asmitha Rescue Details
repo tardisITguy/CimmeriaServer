@@ -1,0 +1,35 @@
+Zoalotha [Villager] - Asmitha's Wife
+  Give Quest: Bring Zoalotha Potion [No notify]
+  Give Quest: Refuse Zoalotha [No notify]
+  Give Quest: Find Asmitha [Notify]
+  Give Item: Decorative Grass [900382] *1
+  Remove Item: Aloe Extract [53001] *1
+
+Oashan [Good Cook]
+  Give Quest: Finding Asmitha at Black Hand Arena [Notify]
+    Triggers:
+      1Pirates
+      3Pirates
+      5Pirates
+  
+Balito [Prison Guard]
+  Give Quest: Threaten Balito [No Notify] 1 day expires
+  Give Quest: Finding Asmitha at the Den [Notify]
+  Give Quest: Bring Balito Beer [Notify] 1 day expires
+  
+Asmitha [Great Cook]
+  Give Quest: Water to Asmitha [Notify]
+   
+Quest Names: 
+  Finding Asmitha at Black Hand Arena
+  Finding Asmitha at Worlds End
+  Finding Asmitha at the Den
+  Find Asmitha
+   
+Noted Items:
+  Decorative Grass [900382]
+  Shroom Beer [18081]
+
+Dialogue Notes:
+    Balito: I already told you what I know. Dvai went north-west to The Den, that's where she wants to sell Asmitha.
+    Balito: Dvai the Maggot-Eater bought her from Deidre and took her to The Den. He wants to sell her there. He thinks he will get a lot more money on that fine cook from those other savages. 
