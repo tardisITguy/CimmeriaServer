@@ -16,3 +16,10 @@ Orianna [Gem Master] Green !
       Rewards: Gives Exp: 10000
                Gives Item: Loyalty Token [900004] *2
                Completes Quest: Yes
+
+Orianna [Gem Master] Green !
+  Gives Quest: Orianna's Special [Notify] 7 days
+      Rewards: Gives Item: Loyalty Token [900004]*5
+	             Gives Funds: 1000
+	             Gives Item: Diamonds [900539]*5
+               Completes Quest: Yes
