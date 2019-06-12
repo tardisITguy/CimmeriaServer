@@ -1,4 +1,13 @@
 AoC Training Details
 
 Thespian Name [Thespian Profession] (Color & !/?)
+  Gives Quest: Quest Name [Notify?] (experation?)
+      Rewards: Give Exp: ######
+               Give Item: Name [ItemID] *(# of items)
+               Completes Quest: Yes/No
 
+  Gives Quest: Quest Name [Notify?] (experation?)
+      Rewards: Give Exp: ######
+               Give Item: Name [ItemID] *(# of items)
+               Completes Quest: Yes/No
+               
