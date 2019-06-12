@@ -1,1 +1,4 @@
 AoC Training Details
+
+Thespian Name [Thespian Profession] (Color & !/?)
+
