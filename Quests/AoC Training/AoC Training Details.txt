@@ -11,8 +11,8 @@ Thespian Name [Thespian Profession] (Color & !/?)
                Give Item: Name [ItemID] *(# of items)
                Completes Quest: Yes/No
                
-Orianna Gem Master Green !
-Orianna's Gems Yes No
-10000
-Loyalty Token = 900004 (2)
-Yes
+Orianna [Gem Master] Green !
+  Gives Quest: Orianna's Gems [Notify] No experation
+      Rewards: Gives Exp: 10000
+               Gives Item: Loyalty Token [900004] *2
+               Completes Quest: Yes
