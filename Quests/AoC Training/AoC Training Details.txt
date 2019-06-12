@@ -23,3 +23,24 @@ Orianna [Gem Master] Green !
 	             Gives Funds: 1000
 	             Gives Item: Diamonds [900539]*5
                Completes Quest: Yes
+
+Sheila [Master Alecmist] Green !
+Gives Quest: Sheila's Dust
+Rewards: Gives EXP: 10000
+	Gives Item: Loyalty tokens [900004]*2
+	Completes Quest: Yes
+
+Vallery [Master & Plauge Furance] Green !
+Gives Quest: Vallery's Furance
+Rewards: Gives EXP 15000000
+	Gives Item: Legendary Mine [900059]*1
+	Completes Quest: Yes
+
+Vallery [Master & Plauge Furance] Green !
+Gives Quest: Vallery's Furance
+Rewards: Gives EXP 20000
+	Gives Item: Eveirium Pickaxe [900013]*1
+	Gives Item: Crescent Pickaxe [900014]*1
+	Gives Item: Verian Pickaxe [900015] *1
+	Gives Item: Kronyxium Pickaxe [900016]*1
+	Completes Quest Yes
