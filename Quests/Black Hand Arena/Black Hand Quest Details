@@ -96,10 +96,6 @@ Duecme [Breaker]
   Complete Quest: BHA Honey Gruel for Duecme [Notify] 3 day experation
   Complete Quest: BHA Enhanced Gruel for Duecme [Notify] 3 day experation
   Complete Quest: BHA Flavoried Gruel for Duecme [Notify] 3 day experation
-  Complete Quest: Duecme Help
-  Global Variable: BHADuecme1
-  Global Variable: BHADuecme2
-  Global Variable: BHADuecme3
   Remove Item: Honey Gruel [18271] *
   Remove Item: Enhanced Gruel [18225] *
   Remove Item: Flavored Grueld [18216] *
