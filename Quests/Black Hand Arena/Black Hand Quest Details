@@ -1,4 +1,7 @@
 Black Hand Arena Details (Dragonheart Built)
+CharVar: BHStatus - Tracks favor for the player from the Black Hand folks.
+
+
 NPCSPawners ** Activated by Klous @ the Black Hand Arena
   BHA1 - Wildlife_HyenaAlpha [Default Stats] 200/3000 *2  (Drop: Black Hand Skull)
   BHA2 - Wildlife_Bear_Black [Default Stats] 200/3000 *2  (Drop: Black Hand Skull)
@@ -108,9 +111,14 @@ Quest: Rescue Foulston
   NPCSpawner: ResFoul
   Egress: Dafari Cage
   Kit: BHA-FoulRescue [Rusted Key: 11036]
-  Thespian:Talis [Scout] - East of the entrance of The Den
-    Vita
+  Thespian: Vita  [Scout] - Black Hand Arena - War Room
+    Gives Quest: Find Talis [Notify] 1 day experation
+    Gives Quest: 
+    
+  Thespian: Talis [Scout] - East of the entrance of The Den
     Gives Quest: Find Vita [Notify] no experation
+    Gives Quest: Rescue Foulston [Notify] no experation    
+    
   Thespian: Foulston [Scout] - Captured in The Den
     Gives Quest: BHA-InitiateBonus [No Notify] 2 Day Experation
     Gives Item: Diamond [900539] 1
