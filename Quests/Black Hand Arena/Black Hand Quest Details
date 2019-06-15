@@ -104,3 +104,16 @@ Duecme [Breaker]
   Give Item: Chain Bindings [51964] *1
   Give Exp: 1000000 (*4: 3 Per quest turn in, 1 as choice for added xp instead of item)
   
+Quest: Rescue Foulston
+  NPCSpawner: ResFoul
+  Egress: Dafari Cage
+  Kit: BHA-FoulRescue [Rusted Key: 11036]
+  Thespian:Talis [Scout] - East of the entrance of The Den
+    Vita
+    Gives Quest: Find Vita [Notify] no experation
+  Thespian: Foulston [Scout] - Captured in The Den
+    Gives Quest: BHA-InitiateBonus [No Notify] 2 Day Experation
+    Gives Item: Diamond [900539] 1
+    Completes Quest: Rescue Foulston [Notify]
+    
+  
