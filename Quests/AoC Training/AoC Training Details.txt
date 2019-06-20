@@ -17,7 +17,6 @@ Orianna [Gem Master] Green !
                Gives Item: Loyalty Token [900004] *2
                Completes Quest: Yes
 
-Orianna [Gem Master] Green !
   Gives Quest: Orianna's Special [Notify] 7 days
       Rewards: Gives Item: Loyalty Token [900004]*5
 	             Gives Funds: 1000
@@ -36,7 +35,6 @@ Rewards: Gives EXP 15000000
 	Gives Item: Legendary Mine [900059]*1
 	Completes Quest: Yes
 
-Vallery [Master & Plauge Furance] Green !
 Gives Quest: Vallery's Furance
 Rewards: Gives EXP 20000
 	Gives Item: Eveirium Pickaxe [900013]*1
@@ -44,3 +42,20 @@ Rewards: Gives EXP 20000
 	Gives Item: Verian Pickaxe [900015] *1
 	Gives Item: Kronyxium Pickaxe [900016]*1
 	Completes Quest Yes
+
+Delighia [Master Enchanter] Green !
+Gives Quest: Delighia Enchanting woods [Notify] No experation
+Rewards: Gives Exp: 10000
+	Gives Item: Mysterious Bell [5105049]*1
+	Completes Quest: Yes
+
+Gives Quest: Delighia Shaped wood [Notify] No experation
+Rewards: Gives Exp: 10000
+	Gives Item: Mysterious Bell [5105049]*1
+	Completes Quest: Yes
+
+Gives Quest: Delighia Enchanted rock [Notify] No experation
+Rewards: Gives Exp: 20000
+	Gives Item: Mysterious Bell [5105049]*2
+	Gives funds: 300
+	Completes Quest: Yes
