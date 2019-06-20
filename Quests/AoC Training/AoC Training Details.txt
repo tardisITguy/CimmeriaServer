@@ -61,3 +61,4 @@ Rewards: Gives Exp: 20000
 	Completes Quest: Yes
 	
 Bob [Construction Worker] Blue !
+Rose Mary [Cooking Specialists] Blue !
