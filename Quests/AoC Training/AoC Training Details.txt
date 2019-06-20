@@ -62,3 +62,4 @@ Rewards: Gives Exp: 20000
 	
 Bob [Construction Worker] Blue !
 Rose Mary [Cooking Specialists] Blue !
+Caleb [Master Workshop] Blue !
