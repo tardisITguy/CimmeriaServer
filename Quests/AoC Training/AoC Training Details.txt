@@ -59,3 +59,5 @@ Rewards: Gives Exp: 20000
 	Gives Item: Mysterious Bell [5105049]*2
 	Gives funds: 300
 	Completes Quest: Yes
+	
+Bob [Construction Worker] Blue !
